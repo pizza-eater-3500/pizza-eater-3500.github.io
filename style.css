@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: bisque
+}
+
+.thing {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    height: 12vh;
+    width: 100vw;
+}
+
+.thing-title {
+    color: gainsboro;
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
